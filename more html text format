@@ -1,0 +1,18 @@
+<!--More html text formatting-->
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>bold</title>
+    </head>
+    <body>
+        <mark>Hello world</mark><br>
+        <blockqoute>Blockquote</blockqoute>Hello world<br>
+        <u>underline</u>Hello world<br>
+        <strike>strike text</strike>Hello world<br>
+        <big>big </big>Hello world<br>
+        <acronym>and</acronym>Hello world<br>
+        <q>quote</q>Hello world<br>
+        <cite>cite text</cite>Hello world<br>
+        <code>code</code>Hello world<br>
+    </body>
+</html>
