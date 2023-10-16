@@ -1,0 +1,20 @@
+<!--html text formatting-->
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>bold</title>
+    </head>
+    <body>
+        <b>Kanchana Rekha</b><br>
+        <strong>Kanchana Rekha</strong><br>
+        <i>Kanchana Rekha</i><br>
+        <em>Kanchana Rekha</em><br>
+        <mark>Kanchana Rekha</mark><br>
+        <small>Kanchana Rekha</small><br>
+        <del>Kanchana Rekha</del><br>
+        <ins>Kanchana Rekha</ins><br>
+        Kanchana<sub> Rekha</sub><br>
+        Kanchana<sup> Rekha</sup><br>
+
+    </body>
+</html>
